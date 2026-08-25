@@ -1,0 +1,13 @@
+.git
+node_modules
+vendor
+public/build
+storage/logs/*.log
+database/database.sqlite
+.env
+.env.example
+.vercel
+tests
+api
+vercel.json
+.vercelignore
