@@ -474,7 +474,6 @@
             sr.reveal('.achievement-card-theme', { origin: 'bottom', interval: 150, viewFactor: 0.3 });
         }
 
-        // Typing Effect
         const fullText = "Hello, my name is <b>Rifki Arfiansyah Shalahan</b>.<br>As a recent graduate of <b>Information Systems, UPN Veteran Jakarta</b>, with a <b>3.85/4.00 GPA</b>, I bring experience in <b>web development and UI/UX design</b>. I am highly motivated and eager to contribute my skills.";
         const typingText = document.getElementById("typing-text");
         let charIndex = 0;
