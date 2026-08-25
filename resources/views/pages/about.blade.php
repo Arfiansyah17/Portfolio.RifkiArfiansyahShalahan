@@ -115,7 +115,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="code-2" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="code-2" class="w-6 h-6 text-orange-500"></i>
                             <span class="font-medium text-theme-primary-text">HTML5</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">100%</span>
@@ -127,7 +127,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="file-code" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="file-code" class="w-6 h-6 text-blue-500"></i>
                             <span class="font-medium text-theme-primary-text">CSS3</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">90%</span>
@@ -139,7 +139,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="layout-dashboard" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="layout-dashboard" class="w-6 h-6 text-yellow-400"></i>
                             <span class="font-medium text-theme-primary-text">JavaScript</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">85%</span>
@@ -151,7 +151,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="server" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="server" class="w-6 h-6 text-red-500"></i>
                             <span class="font-medium text-theme-primary-text">Laravel</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">90%</span>
@@ -163,7 +163,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="database" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="database" class="w-6 h-6 text-indigo-500"></i>
                             <span class="font-medium text-theme-primary-text">MySQL</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">85%</span>
@@ -175,7 +175,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="layout-template" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="layout-template" class="w-6 h-6 text-cyan-500"></i>
                             <span class="font-medium text-theme-primary-text">Tailwind CSS</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">85%</span>
@@ -187,7 +187,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="hexagon" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="hexagon" class="w-6 h-6 text-green-500"></i>
                             <span class="font-medium text-theme-primary-text">Node.js</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">80%</span>
@@ -199,7 +199,7 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="atom" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="atom" class="w-6 h-6 text-blue-500"></i>
                             <span class="font-medium text-theme-primary-text">React</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">80%</span>
@@ -211,13 +211,25 @@
                 <div class="group space-y-2">
                     <div class="flex justify-between items-center">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="braces" class="w-6 h-6 text-slate-300"></i>
+                            <i data-lucide="braces" class="w-6 h-6 text-indigo-500"></i>
                             <span class="font-medium text-theme-primary-text">TypeScript</span>
                         </div>
                         <span class="text-sm text-theme-secondary-text">75%</span>
                     </div>
                     <div class="w-full h-3 bg-gray-300 rounded-full overflow-hidden">
                         <div class="h-full rounded-full progress-bar gradient-indigo" data-progress="75"></div>
+                    </div>
+                </div>
+                <div class="group space-y-2">
+                    <div class="flex justify-between items-center">
+                        <div class="flex items-center gap-3">
+                            <i data-lucide="triangle" class="w-6 h-6 text-cyan-500"></i>
+                            <span class="font-medium text-theme-primary-text">Prisma</span>
+                        </div>
+                        <span class="text-sm text-theme-secondary-text">75%</span>
+                    </div>
+                    <div class="w-full h-3 bg-gray-300 rounded-full overflow-hidden">
+                        <div class="h-full rounded-full progress-bar gradient-cyan" data-progress="75"></div>
                     </div>
                 </div>
             </div>
@@ -232,7 +244,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="figma" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="pen-tool" class="w-6 h-6 text-purple-500"></i>
                         <span class="font-medium text-theme-primary-text">Figma</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">95%</span>
@@ -244,7 +256,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="code" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="code" class="w-6 h-6 text-blue-500"></i>
                         <span class="font-medium text-theme-primary-text">Visual Studio Code</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">90%</span>
@@ -256,7 +268,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="app-window" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="app-window" class="w-6 h-6 text-red-500"></i>
                         <span class="font-medium text-theme-primary-text">Canva</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">95%</span>
@@ -268,7 +280,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="file-text" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="file-text" class="w-6 h-6 text-blue-500"></i>
                         <span class="font-medium text-theme-primary-text">Ms Word</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">90%</span>
@@ -280,7 +292,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="book-a" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="book-a" class="w-6 h-6 text-green-500"></i>
                         <span class="font-medium text-theme-primary-text">Ms Excel</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">85%</span>
@@ -292,7 +304,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="file-bar-chart" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="file-bar-chart" class="w-6 h-6 text-purple-500"></i>
                         <span class="font-medium text-theme-primary-text">Ms Power Point</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">90%</span>
@@ -304,7 +316,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="scroll-text" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="scroll-text" class="w-6 h-6 text-cyan-500"></i>
                         <span class="font-medium text-theme-primary-text">Notion</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">90%</span>
@@ -316,7 +328,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="list-checks" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="list-checks" class="w-6 h-6 text-indigo-500"></i>
                         <span class="font-medium text-theme-primary-text">Trello</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">95%</span>
@@ -328,7 +340,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="paintbrush" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="paintbrush" class="w-6 h-6 text-orange-500"></i>
                         <span class="font-medium text-theme-primary-text">Adobe Illustrator</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">85%</span>
@@ -340,7 +352,7 @@
             <div class="group space-y-2">
                 <div class="flex justify-between items-center">
                     <div class="flex items-center gap-3">
-                        <i data-lucide="server" class="w-6 h-6 text-slate-300"></i>
+                        <i data-lucide="server" class="w-6 h-6 text-blue-500"></i>
                         <span class="font-medium text-theme-primary-text">Laragon</span>
                     </div>
                     <span class="text-sm text-theme-secondary-text">90%</span>

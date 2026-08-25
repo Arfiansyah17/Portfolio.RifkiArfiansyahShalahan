@@ -144,12 +144,15 @@
             border-radius: 9999px;
         }
 
-        /* Gradasi + Glow per skill (silver/white) */
-        .gradient-orange, .gradient-blue, .gradient-yellow, .gradient-red,
-        .gradient-indigo, .gradient-cyan, .gradient-purple, .gradient-green {
-            background: linear-gradient(90deg, #94a3b8, #ffffff);
-            box-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(148, 163, 184, 0.4);
-        }
+        /* Gradasi + Glow per skill */
+        .gradient-orange { background: linear-gradient(90deg, #f97316, #facc15); box-shadow: 0 0 10px #f97316, 0 0 20px #facc15; }
+        .gradient-blue { background: linear-gradient(90deg, #3b82f6, #06b6d4); box-shadow: 0 0 10px #3b82f6, 0 0 20px #06b6d4; }
+        .gradient-yellow { background: linear-gradient(90deg, #facc15, #f59e0b); box-shadow: 0 0 10px #facc15, 0 0 20px #f59e0b; }
+        .gradient-red { background: linear-gradient(90deg, #ef4444, #f97316); box-shadow: 0 0 10px #ef4444, 0 0 20px #f97316; }
+        .gradient-indigo { background: linear-gradient(90deg, #6366f1, #7c3aed); box-shadow: 0 0 10px #6366f1, 0 0 20px #7c3aed; }
+        .gradient-cyan { background: linear-gradient(90deg, #06b6d4, #22d3ee); box-shadow: 0 0 10px #06b6d4, 0 0 20px #22d3ee; }
+        .gradient-purple { background: linear-gradient(90deg, #8b5cf6, #ec4899); box-shadow: 0 0 10px #8b5cf6, 0 0 20px #ec4899; }
+        .gradient-green { background: linear-gradient(90deg, #22c55e, #84cc16); box-shadow: 0 0 10px #22c55e, 0 0 20px #84cc16; }
 
         .tech-stack-item:hover { transform: translateY(-8px); }
 
